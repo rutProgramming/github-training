@@ -6,5 +6,8 @@ export default function BooksPage() {
       <h1>Books Page</h1>
       <p>Welcome to the Books section of our application.</p>
     </header>
+    <main>
+            <h1>Home Page</h1>
+        </main>
   );
 }
